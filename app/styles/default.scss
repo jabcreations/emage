@@ -1,12 +1,13 @@
-:global {
-    html body #root {
-        background-color: #fff;
-        margin: 0px;
-        padding: 0px;
-        height: 100%;
-    }
+:global
+{
+ html body #root
+ {
+  background-color: #000;
+  color: #fff;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+ }
 
-    * {
-        -webkit-user-drag: none;
-    }
+ * {-webkit-user-drag: none;}
 }
